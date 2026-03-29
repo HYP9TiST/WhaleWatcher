@@ -1,0 +1,8 @@
+aiohttp
+websockets
+requests
+feedparser
+python-dateutil
+openai
+playwright
+certifi
